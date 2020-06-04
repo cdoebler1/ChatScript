@@ -1,15 +1,9 @@
-# Status
-The former repository of ChatScript was at https://github.com/bwilcox-1234/ChatScript, however, I lost
-access to this repository (2 factor authentication lost that I didn't want in the first place and I could not convince
-github to restore my access). So it is no longer maintained. But the global user ChatScript 
-became available, and is a better name anyway.
-
 # ChatScript
 Natural Language tool/dialog manager
 
 ChatScript is the next generation chatbot engine that has won the Loebner's 4 times and is the basis for natural language company for a variety of tech startups.
 
-ChatScript is a rule-based engine, where rules are created by humans writers in program scripts through a process called dialog flow scripting. These use a scripting metalanguage (simply called a "script") as their source code. 
+ChatScript is a rule-based engine, where rules are created by humans writers in program scripts through a process called dialog flow scripting. These use a scripting metalanguage (simply called a "script") as their source code.
 Here what a ChatScript script file looks like:
 ```
 #
@@ -19,11 +13,11 @@ topic: ~food []
 
 #! I like spinach
 s: ( I like spinach ) Are you a fan of the Popeye cartoons?
-	
+
 	a: ( ~yes )  I used to watch him as a child. Did you lust after Olive Oyl?
     	    b: ( ~no ) Me neither. She was too skinny.
     	    b: ( yes ) You probably like skinny models.
-	
+
 	a: ( ~no ) What cartoons do you watch?
      		b: ( none ) You lead a deprived life.
      		b: ( Mickey Mouse ) The Disney icon.
@@ -47,8 +41,8 @@ s: ( ~like ~fruit ![~animal _bear] )  Vegan, you too...
 ?: ( do you eat _~meat ) No, I hate _0.
 
 #! I eat fish.
-s: ( I eat _*1 > ) 
-  $food = '_0 
+s: ( I eat _*1 > )
+  $food = '_0
   I eat oysters.
 ```
 
@@ -81,7 +75,7 @@ Above example mentioned in article [How to build your first chatbot using ChatSc
 * Mature technology in use by various parties around the world.
 * Integrated tools to support maintaining and testing large systems.
 * UTF8 support allows scripts written in any language
-* User support forum on [chatbots.org](https://www.chatbots.org/ai_zone/viewforum/44/) 
+* User support forum on [chatbots.org](https://www.chatbots.org/ai_zone/viewforum/44/)
 * Issues or bugs on this [repo](https://github.com/bwilcox-1234/ChatScript/issues)
 
 
@@ -96,7 +90,7 @@ Take this project and put it into some directory on your machine (typically we c
 
 ## Standalone mode - run locally on a console (for developement/test)
 
-From your ChatScript home directory, go to the BINARIES directory: 
+From your ChatScript home directory, go to the BINARIES directory:
 ```bash
 cd BINARIES
 ```
@@ -118,7 +112,7 @@ Note: to set the file executable: `chmod a+x ./LinuxChatScript64`
 ./MacChatScript local
 ```
 
-This will cause ChatScript to load and ask you for a username. Enter whatever you want. 
+This will cause ChatScript to load and ask you for a username. Enter whatever you want.
 You are then talking to the default demo bot `Harry`.
 
 ## Server Mode (for production)
@@ -137,12 +131,12 @@ ChatScript port=1024
 ```
 
 This will cause ChatScript to load as a server.  
-But you also need a client (to test client-server communication). 
-You can run a separate command window and go to the BINARIES directory and type 
+But you also need a client (to test client-server communication).
+You can run a separate command window and go to the BINARIES directory and type
 
 ### Run a client (test) on Windows
 ```bash
-ChatScript client=localhost:1024 
+ChatScript client=localhost:1024
 ```
 
 ### Run a client (test) on Linux
@@ -155,11 +149,11 @@ ChatScript client=localhost:1024
 ./MacChatScript client=localhost:1024
 ```
 
-This will cause ChatScript to load as a client and you can talk to the server. 
+This will cause ChatScript to load as a client and you can talk to the server.
 
 
 ## How to build a bot
-Run ChatScript locally. From the ChatScript command prompt, type 
+Run ChatScript locally. From the ChatScript command prompt, type
 
     :build Harry
 
@@ -168,7 +162,7 @@ or whatever other preinstalled bot exists. If you have revised basic data, you c
     :build 0
 
 ## How to compile the engine.
-On windows if you have Visual Studio installed, launch `VS2010/chatscript.sln` or `VS2015/chatscript.sln` and do a build. 
+On windows if you have Visual Studio installed, launch `VS2010/chatscript.sln` or `VS2015/chatscript.sln` and do a build.
 The result will go in the `BINARIES` directory.
 
 On Linux, go stand in the SRC directory and type `make server` (assuming you have make and g++ installed). This creates BINARIES/ChatScript, which can run as a server or locally. There are other make choices for installing PostGres or Mongo.
@@ -230,7 +224,7 @@ docker run -it chatscript-harry local
 [changes.md](/changes.md)
 
 
-# Author 
+# Author
 
 * Bruce Wilcox
   * home website: [BrilligUnderstanding.com](http://www.brilligunderstanding.com)
