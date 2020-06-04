@@ -1,0 +1,42 @@
+﻿Fatal Error: signal code 2
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+
+Fatal Error: signal code 2
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+
+No such directory No such file or directory
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 5 of 80
+
+BUG in childhood.top at 6: t: Did you run away from home when you were little?  Error opening utf8writeappend file VERIFY/childhood-b1.txt: No such file or directory
+
+Fatal Error: signal code 2
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+
+Fatal Error: signal code 2
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+
+User data file CONTEXT inconsistent
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+
+User data file inconsistent
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+
+Fatal Error: signal code 2
+
+MinReleaseStackGap 85MB MinHeapAvailable 86MB
+MaxBuffers used 2 of 80
+

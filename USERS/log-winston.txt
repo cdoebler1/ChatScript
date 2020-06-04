@@ -1,0 +1,6 @@
+﻿Start: user:winston bot:harry ip: rand:-1381046708 (~fastfood) 0 ==> Hello in our online fastfood. Please make your order.  When:Jun04'20-11:23:31 Why:~fastfood.0.0.~control.9.0  Version:10.4 Build0:Jun04'20-11:08:35 Build1:Jun04'20-11:11:13 0:Jun04'20-11:23:31 F:0 P:0
+Respond: user:winston bot:harry ip: (~fastfood) 1  chicken ==> I don't know what to say.  When:Jun04'20-11:23:39 Why:~control.9.0.~control.9.0   F:9ms 
+Command: :build 0
+Start: user:winston bot:harry ip: rand:1533251449 (~fastfood) 1 ==> I don't know what to say.  When:Jun04'20-11:23:51 Why:~control.9.0.~control.9.0  Version:10.4 Build0:Jun04'20-11:23:46 Build1:Jun04'20-11:11:13 0:Jun04'20-11:23:31 F:0 P:Jun04'20-11:23:39
+Command: :quit
+Exiting ChatScript via Quit

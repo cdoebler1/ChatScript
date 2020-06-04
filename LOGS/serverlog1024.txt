@@ -1,0 +1,107 @@
+evserver child fork requests: 0
+  evserver: running pid: 55
+System startup createsystem Tue Jun 02 12:59:44 2020
+Server ChatScript EVSERVER Version 10.4 pid: 55 64 bit LINUX compiled May 30 2020 13:22:05 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68813  fact=129380  heap=1157812 Compiled:Apr16'20-08:24:37 by version 10.1 "0"
+Build1:  dict=147  fact=15  heap=335452 Compiled:May30'20-14:23:42 by version 10.4 "harry"
+Used 59MB: dict 269,986 (23758kb) hashdepths 240.1217.3387.5941.7920.8605.7741.6009.4010.2432.1324.677.285.140.44.20.7.1.1. words 269986 unusedbuckets 240 fact 215,700 (10353kb) heap 13499kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,164 fact 584,300 stack/heap 86,500KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 55 10.4 compiled May 30 2020 13:22:05 on host local port 1024 at Tue Jun 02 12:59:46 2020 serverlog:1 userlog: 1
+evserver: parent ready (pid = 55), fork=0
+Fatal Error: signal code 2
+evserver child fork requests: 0
+  evserver: running pid: 113
+System startup createsystem Wed Jun 03 15:13:31 2020
+Server ChatScript EVSERVER Version 10.4 pid: 113 64 bit LINUX compiled May 30 2020 13:22:05 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68813  fact=129380  heap=1157812 Compiled:Apr16'20-08:24:37 by version 10.1 "0"
+Build1:  dict=147  fact=15  heap=335452 Compiled:May30'20-14:23:42 by version 10.4 "harry"
+Used 59MB: dict 269,986 (23758kb) hashdepths 240.1217.3387.5941.7920.8605.7741.6009.4010.2432.1324.677.285.140.44.20.7.1.1. words 269986 unusedbuckets 240 fact 215,700 (10353kb) heap 13499kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,164 fact 584,300 stack/heap 86,500KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 113 10.4 compiled May 30 2020 13:22:05 on host local port 1024 at Wed Jun 03 15:13:32 2020 serverlog:1 userlog: 1
+evserver: parent ready (pid = 113), fork=0
+Fatal Error: signal code 2
+evserver child fork requests: 0
+  evserver: running pid: 128
+System startup createsystem Wed Jun 03 15:26:42 2020
+Server ChatScript EVSERVER Version 10.4 pid: 128 64 bit LINUX compiled May 30 2020 13:22:05 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68805  fact=128976  heap=1157660 Compiled:Jun03'20-15:18:42 by version 10.4 "0"
+Build1:  dict=7  fact=1  heap=128080 Compiled:Jun03'20-15:21:35 by version 10.4 "food"
+Used 58MB: dict 269,838 (23745kb) hashdepths 240.1220.3395.5951.7918.8608.7751.5989.4013.2423.1324.671.286.139.44.20.7.1.1. words 269838 unusedbuckets 240 fact 215,282 (10333kb) heap 13292kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,312 fact 584,718 stack/heap 86,707KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 128 10.4 compiled May 30 2020 13:22:05 on host local port 1024 at Wed Jun 03 15:26:44 2020 serverlog:1 userlog: 1
+evserver: parent ready (pid = 128), fork=0
+Fatal Error: signal code 2
+evserver child fork requests: 0
+  evserver: running pid: 129
+System startup createsystem Wed Jun 03 15:26:56 2020
+Server ChatScript EVSERVER Version 10.4 pid: 129 64 bit LINUX compiled May 30 2020 13:22:05 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68805  fact=128976  heap=1157660 Compiled:Jun03'20-15:18:42 by version 10.4 "0"
+Build1:  dict=7  fact=1  heap=128080 Compiled:Jun03'20-15:21:35 by version 10.4 "food"
+Used 58MB: dict 269,838 (23745kb) hashdepths 240.1220.3395.5951.7918.8608.7751.5989.4013.2423.1324.671.286.139.44.20.7.1.1. words 269838 unusedbuckets 240 fact 215,282 (10333kb) heap 13292kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,312 fact 584,718 stack/heap 86,707KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 129 10.4 compiled May 30 2020 13:22:05 on host local port 1024 at Wed Jun 03 15:26:57 2020 serverlog:1 userlog: 1
+evserver: parent ready (pid = 129), fork=0
+evserver child fork requests: 0
+  evserver: running pid: 311
+System startup createsystem Thu Jun 04 11:07:42 2020
+Server ChatScript EVSERVER Version 10.4 pid: 311 64 bit LINUX compiled May 30 2020 13:22:05 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68805  fact=128976  heap=1157660 Compiled:Jun03'20-15:18:42 by version 10.4 "0"
+Build1:  dict=7  fact=1  heap=128080 Compiled:Jun03'20-15:21:35 by version 10.4 "food"
+Used 58MB: dict 269,838 (23745kb) hashdepths 240.1220.3395.5951.7918.8608.7751.5989.4013.2423.1324.671.286.139.44.20.7.1.1. words 269838 unusedbuckets 240 fact 215,282 (10333kb) heap 13292kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,312 fact 584,718 stack/heap 86,707KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 311 10.4 compiled May 30 2020 13:22:05 on host local port 1024 at Thu Jun 04 11:07:44 2020 serverlog:1 userlog: 1
+evserver: parent ready (pid = 311), fork=0
+Fatal Error: signal code 2
+evserver child fork requests: 0
+  evserver: running pid: 429
+System startup createsystem Thu Jun 04 11:16:53 2020
+Server ChatScript EVSERVER Version 10.4 pid: 429 64 bit LINUX compiled May 30 2020 13:22:05 host=local
+Params:   dict:2097151 fact:800000 text:100000kb hash:215127 
+          buffer:80x80kb cache:1x5000kb userfacts:100 outputlimit:80000 loglimit:80000
+Build0:  dict=68805  fact=128976  heap=1157660 Compiled:Jun04'20-11:08:35 by version 10.4 "0"
+Build1:  dict=7  fact=1  heap=128080 Compiled:Jun04'20-11:11:13 by version 10.4 "food"
+Used 58MB: dict 269,838 (23745kb) hashdepths 240.1220.3395.5951.7918.8608.7751.5989.4013.2423.1324.671.286.139.44.20.7.1.1. words 269838 unusedbuckets 240 fact 215,282 (10333kb) heap 13292kb
+           buffer (6400kb) cache (5000kb)
+Free 114MB: dict 1,827,312 fact 584,718 stack/heap 86,707KB 
+
+    *** Server WIDE OPEN to :command use.
+
+
+======== Began EV server pid 429 10.4 compiled May 30 2020 13:22:05 on host local port 1024 at Thu Jun 04 11:16:54 2020 serverlog:1 userlog: 1
+evserver: parent ready (pid = 429), fork=0
+Fatal Error: signal code 2

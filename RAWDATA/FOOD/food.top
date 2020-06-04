@@ -1,0 +1,9 @@
+topic: ~fastfood keep repeat []
+
+t: Hello in our online fastfood. Please make your order.
+
+u: BURGER (I [want need take] _[burger potato ice-cream])
+
+	$order = _0
+
+	Okay, you want $order . Something else?

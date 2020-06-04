@@ -1,0 +1,26 @@
+﻿USERS/topic_chuck_harry.txt
+jul2116 Jun02'20-13:02:04 Jun02'20-13:04:52 0 |
+12 11 0 DY 0 3 3 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~fastfood #pending
+~fastfood + 1 UAnd8 ia b 0 0 
+#`end topics
+$cs_randindex=83
+$cs_bot=Harry
+$cs_login=Chuck
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=chuck: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Hello in our online fastfood. Please make your order.
+ I don't know what to say.
+#`end chatbot

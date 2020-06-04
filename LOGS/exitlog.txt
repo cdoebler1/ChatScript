@@ -1,0 +1,25 @@
+﻿
+Tue Jun 02 13:01:54 2020: input: caller: callee:
+Fatal Error: signal code 2
+
+ 4 - called myexit at Tue Jun 02 13:01:54 2020
+
+Wed Jun 03 15:15:31 2020: input: caller: callee:
+Fatal Error: signal code 2
+
+ 4 - called myexit at Wed Jun 03 15:15:31 2020
+
+Wed Jun 03 15:26:52 2020: input: caller: callee:
+Fatal Error: signal code 2
+
+ 4 - called myexit at Wed Jun 03 15:26:52 2020
+
+Thu Jun 04 11:08:02 2020: input: caller: callee:
+Fatal Error: signal code 2
+
+ 4 - called myexit at Thu Jun 04 11:08:02 2020
+
+Thu Jun 04 11:17:01 2020: input: caller: callee:
+Fatal Error: signal code 2
+
+ 4 - called myexit at Thu Jun 04 11:17:01 2020
